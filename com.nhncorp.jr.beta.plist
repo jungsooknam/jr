@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nhncorp.jr.beta</string>
+				<string>com.nhncorp.inhouse.jr</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>쥬니버 베타</string>
+				<string>쥬니버 Dev</string>
 			</dict>
 		</dict>
 	</array>
