@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://flashdev.naver.com/FlashUILab/Project/JuniorNaver/mobileapp/test/JuniverIOS_v2.5.1_Alpha.ipa</string>
+					<string>http://flashdev.naver.com/FlashUILab/Project/JuniorNaver/mobileapp/test/JuniverIOS_v2.5.2_Alpha.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.nhncorp.inhouse.jr</string>
 				<key>bundle-version</key>
-				<string>2.5.1</string>
+				<string>2.5.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>쥬니버 2.5.1 Alpha</string>
+				<string>쥬니버 2.5.2 Alpha</string>
 			</dict>
 		</dict>
 	</array>
